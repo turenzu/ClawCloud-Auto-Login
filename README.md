@@ -55,6 +55,10 @@
 2. 在左侧列表中选择 **ClawCloud Run Auto Login**。
 3. 点击右侧的 **Run workflow** 下拉菜单 -> 点击绿色 **Run workflow** 按钮。
 4. 等待运行完成，查看日志确保显示 `🎉 登录成功`。
+5. TG通知收到截图如下：
+
+   <img width="276" height="84" alt="image" src="https://github.com/user-attachments/assets/18da12e1-a2e8-4dab-8e6f-d0b25f109add" />
+
 
 **✅ 完成！之后脚本将每隔 15 天自动执行一次保活任务。**
 
